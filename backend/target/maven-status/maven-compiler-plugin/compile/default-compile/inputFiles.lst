@@ -1,4 +1,8 @@
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/HappyLearningApplication.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/config/SecurityConfig.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/controller/AuthController.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/dto/LoginRequest.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/dto/LoginResponse.java
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Admin.java
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Course.java
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Lesson.java
@@ -13,3 +17,4 @@
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/StudentRepository.java
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/TeacherRepository.java
 /home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/TestRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/security/JwtUtil.java
