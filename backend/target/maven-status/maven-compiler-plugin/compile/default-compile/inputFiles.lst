@@ -1,1 +1,15 @@
-C:\Users\golla\Desktop\Happy_learning_Project\happy_learning_platform\backend\src\main\java\com\happylearning\backend\HappyLearningApplication.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/HappyLearningApplication.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Admin.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Course.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Lesson.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Result.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Student.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Teacher.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/entity/Test.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/AdminRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/CourseRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/LessonRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/ResultRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/StudentRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/TeacherRepository.java
+/home/rakesh/happy_learning_project/happy_learning_platform/backend/src/main/java/com/happylearning/backend/repository/TestRepository.java

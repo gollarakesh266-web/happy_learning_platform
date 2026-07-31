@@ -1,8 +1,23 @@
 spring:
   application:
     name: happy-learning-backend
-  autoconfigure:
-    exclude:
-      - org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration
-      - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
-      - org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/happylearning?useSSL=false&allowPublicKeyRetrieval=true
+    username: happyuser
+    password: happypass123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  flyway:
+    enabled: false
+
+server:
+  port: 8080
